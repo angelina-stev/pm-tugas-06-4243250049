@@ -6,13 +6,11 @@
 
 
 ## Tangkapan Layar Aplikasi
-
-- Tampilan Ponsel
+## 1. Tampilan Ponsel
 ![ponsel1](ponsel1.png)
 ![ponsel2](ponsel2.png)
 ![ponsel3](ponsel3.png)
-
-- Tampilan Tablet
+## 2. Tampilan Tablet
 ![tablet1](tablet1.png)
 ![tablet2](<tablet 2.png>)
 ![tablet3](tablet3.png)
